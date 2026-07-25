@@ -1,0 +1,21 @@
+# Mods do servidor (Create+)
+
+Lista de mods para o servidor de Minecraft com o modpack **Create+**.
+
+- **Versão:** Minecraft 1.21.1
+- **Loader:** NeoForge 21.1.233
+- **Servidor:** `sent-nature.gl.joinmc.link`
+
+## Como entrar (para os amigos)
+
+1. Instale o **NeoForge 21.1.233** para Minecraft 1.21.1 no seu launcher (Prism Launcher recomendado).
+2. Instale o mod **Simple Mod Sync** (versão NeoForge) na pasta de mods, uma vez só.
+3. Abra o Minecraft, entre em Simple Mod Sync e cole a URL do manifesto (o link "Raw" do arquivo `mod-sync-manifest.json` deste repositório).
+4. O Simple Mod Sync baixa e mantém atualizados todos os outros mods automaticamente.
+5. Adicione o servidor `sent-nature.gl.joinmc.link` em Multiplayer e entre.
+
+> É preciso estar na whitelist do servidor. Peça ao dono para rodar `whitelist add <seu_nick>`.
+
+## Arquivos
+
+- `mod-sync-manifest.json` — lista dos 154 mods/resource packs do lado do cliente, no formato do Simple Mod Sync.
