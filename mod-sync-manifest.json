@@ -1056,6 +1056,12 @@
       "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
       "version": "resourceful-lib",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qPASucBM/lithostitched-1.7.13-neoforge-21.1.jar",
+      "name": "lithostitched-1.7.13-neoforge-21.1.jar",
+      "version": "lithostitched",
+      "type": "mod"
     }
   ]
 }
