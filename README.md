@@ -14,7 +14,7 @@ Lista de mods para o servidor de Minecraft com o modpack **Create+** e o **Cobbl
 4. O Simple Mod Sync baixa e mantém atualizados todos os outros mods automaticamente.
 5. Adicione o servidor `sent-nature.gl.joinmc.link` em Multiplayer e entre.
 
-> É preciso estar na whitelist do servidor. Peça ao dono para rodar `whitelist add <seu_nick>`.
+> O servidor está em modo offline (aceita contas não-originais). Não há whitelist: basta entrar com seu nick.
 
 ## Arquivos
 
