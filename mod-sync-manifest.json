@@ -930,6 +930,132 @@
       "name": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
       "version": "1.7.3+1.21.1",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/DsBXQk0d/catchindicator-neoforge-1.7.0.jar",
+      "name": "catchindicator-neoforge-1.7.0.jar",
+      "version": "catch-indicator",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/vADO40xp/versions/bmoCjqQG/catchrate-display-neoforge-2.8.22.jar",
+      "name": "catchrate-display-neoforge-2.8.22.jar",
+      "version": "catch-rate-display",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/Iqiqjfsi/CobbleDollars-neoforge-2.0.0%2BBeta-6.1%2B1.21.1.jar",
+      "name": "CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar",
+      "version": "cobbledollars",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/Ynk3uYUi/CobbleFurnies-neoforge-1.2.jar",
+      "name": "CobbleFurnies-neoforge-1.2.jar",
+      "version": "cobblefurnies",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/2iY8VFqL/versions/liJnZJxw/cobblemon-battle-extras-neoforge-1.13.45.jar",
+      "name": "cobblemon-battle-extras-neoforge-1.13.45.jar",
+      "version": "cobblemon-battle-extras",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/2MLFzPz6/fightorflight-neoforge-0.10.9.jar",
+      "name": "fightorflight-neoforge-0.10.9.jar",
+      "version": "cobblemon-fight-or-flight-reborn",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/BAOrFYvg/mega_showdown-neoforge-1.8.4%2B1.7.3%2B1.21.1.jar",
+      "name": "mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar",
+      "version": "cobblemon-mega-showdown",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/yCSofpNb/cobblenav-neoforge-2.3.3.jar",
+      "name": "cobblenav-neoforge-2.3.3.jar",
+      "version": "cobblemon-pokenav",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GebWh45l/versions/MkwAUeSE/cobblemonraiddens-neoforge-0.11.3%2B1.21.1.jar",
+      "name": "cobblemonraiddens-neoforge-0.11.3+1.21.1.jar",
+      "version": "cobblemonraiddens",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/9bPk2DC3/Cobbreeding-neoforge-2.2.2.jar",
+      "name": "Cobbreeding-neoforge-2.2.2.jar",
+      "version": "cobbreeding",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/m6RyHSbV/versions/l6PiCdpy/legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+      "name": "legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+      "version": "legendary-monuments",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/LDMOCVN8/MoreCobblemonTweaks-neoforge-1.3.3.jar",
+      "name": "MoreCobblemonTweaks-neoforge-1.3.3.jar",
+      "version": "more-cobblemon-tweaks",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/2V1Y86sc/versions/8QRsAEga/zamega-neoforge-1.7.3.jar",
+      "name": "zamega-neoforge-1.7.3.jar",
+      "version": "navas-zamega",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/zpphgptV/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+      "name": "rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+      "version": "rctapi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/qyxrdzND/rctmod-neoforge-1.21.1-0.18.1-beta.jar",
+      "name": "rctmod-neoforge-1.21.1-0.18.1-beta.jar",
+      "version": "rctmod",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
+      "name": "athena-neoforge-1.21.1-4.0.6.jar",
+      "version": "athena-ctm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "version": "geckolib",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+      "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "version": "owo-lib",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+      "name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "version": "accessories",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar",
+      "name": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "version": "chipped",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "version": "resourceful-lib",
+      "type": "mod"
     }
   ]
 }
