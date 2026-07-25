@@ -1,6 +1,6 @@
 # Mods do servidor (Create+)
 
-Lista de mods para o servidor de Minecraft com o modpack **Create+**.
+Lista de mods para o servidor de Minecraft com o modpack **Create+** e o **Cobblemon** (Pokémon).
 
 - **Versão:** Minecraft 1.21.1
 - **Loader:** NeoForge 21.1.233
@@ -18,4 +18,4 @@ Lista de mods para o servidor de Minecraft com o modpack **Create+**.
 
 ## Arquivos
 
-- `mod-sync-manifest.json` — lista dos 154 mods/resource packs do lado do cliente, no formato do Simple Mod Sync.
+- `mod-sync-manifest.json` — lista dos 155 mods/resource packs do lado do cliente (Create+ + Cobblemon), no formato do Simple Mod Sync.
