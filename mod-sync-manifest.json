@@ -1080,6 +1080,12 @@
       "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "version": "shader-loader",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/az73Oero/waystones-neoforge-1.21.1-21.1.37.jar",
+      "name": "waystones-neoforge-1.21.1-21.1.37.jar",
+      "version": "waystones",
+      "type": "mod"
     }
   ]
 }
