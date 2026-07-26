@@ -86,12 +86,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3XiinKbh/balm-neoforge-1.21.1-21.0.58.jar",
-      "name": "balm-neoforge-1.21.1-21.0.58.jar",
-      "version": 701868,
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
       "name": "bellsandwhistles-0.4.7-1.21.1.jar",
       "version": 193619,
@@ -1085,6 +1079,12 @@
       "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/az73Oero/waystones-neoforge-1.21.1-21.1.37.jar",
       "name": "waystones-neoforge-1.21.1-21.1.37.jar",
       "version": "waystones",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yl3tIBea/balm-neoforge-1.21.1-21.0.63.jar",
+      "name": "balm-neoforge-1.21.1-21.0.63.jar",
+      "version": "21.0.63",
       "type": "mod"
     }
   ]
