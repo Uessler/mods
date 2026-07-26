@@ -1076,15 +1076,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/az73Oero/waystones-neoforge-1.21.1-21.1.37.jar",
-      "name": "waystones-neoforge-1.21.1-21.1.37.jar",
-      "version": "waystones",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yl3tIBea/balm-neoforge-1.21.1-21.0.63.jar",
       "name": "balm-neoforge-1.21.1-21.0.63.jar",
       "version": "21.0.63",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/OL8Mnbav/waystones-neoforge-1.21.1-21.1.38.jar",
+      "name": "waystones-neoforge-1.21.1-21.1.38.jar",
+      "version": "waystones",
       "type": "mod"
     }
   ]
