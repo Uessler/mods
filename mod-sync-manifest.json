@@ -1074,6 +1074,12 @@
       "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
       "version": "map",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "version": "shader-loader",
+      "type": "mod"
     }
   ]
 }
