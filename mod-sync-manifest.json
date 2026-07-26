@@ -1062,6 +1062,18 @@
       "name": "lithostitched-1.7.13-neoforge-21.1.jar",
       "version": "lithostitched",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "name": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "version": "map",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/55gtOc9Y/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "version": "map",
+      "type": "mod"
     }
   ]
 }
